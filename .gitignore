@@ -1,5 +1,6 @@
 data/
-results/
+results/*
+!results/*.csv
 output/
 tmp/
 .ipynb_checkpoints/
